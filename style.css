@@ -1,0 +1,58 @@
+
+.container {
+	margin: 0 auto;
+	width: 80%;
+	text-align: center;
+}
+
+.blackButton {
+	background-color: black;
+	color: white;
+	border: 1px solid black;
+}
+h1 {
+	margin: 0;
+}
+ul{
+	text-align: center;
+}
+li {
+	list-style: none;
+	height: 30px;
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+li div{
+	display:inline-block;
+	margin: 10px auto;
+}
+
+.item{
+	float: left;
+	text-align: left;
+}
+.author{
+	float: right;
+	/*text-align: left*/;
+}
+
+.xlarge{
+	font-size: 3.5em;
+
+}
+
+.large{
+	font-size: 2.5em;
+
+}
+
+.medium{
+	font-size: 1.8em;
+
+}
+.small{
+	font-size: 1em;
+
+}
