@@ -16,7 +16,7 @@ app.controller('mainCtrl', function($scope, dataService){
 	$scope.showAddQuote = function() {
 		$scope.showAdd = !$scope.showAdd;
 		$scope.showRemove = false;
-		$scope.showFilter = false;
+		$scope.showFilter = false;	
 	}
 
 	$scope.showRemoveQuote = function() {
